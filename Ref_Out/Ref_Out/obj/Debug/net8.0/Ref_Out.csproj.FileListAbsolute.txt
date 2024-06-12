@@ -1,0 +1,14 @@
+C:\Projeto C#\Ref_Out\Ref_Out\bin\Debug\net8.0\Ref_Out.exe
+C:\Projeto C#\Ref_Out\Ref_Out\bin\Debug\net8.0\Ref_Out.deps.json
+C:\Projeto C#\Ref_Out\Ref_Out\bin\Debug\net8.0\Ref_Out.runtimeconfig.json
+C:\Projeto C#\Ref_Out\Ref_Out\bin\Debug\net8.0\Ref_Out.dll
+C:\Projeto C#\Ref_Out\Ref_Out\bin\Debug\net8.0\Ref_Out.pdb
+C:\Projeto C#\Ref_Out\Ref_Out\obj\Debug\net8.0\Ref_Out.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projeto C#\Ref_Out\Ref_Out\obj\Debug\net8.0\Ref_Out.AssemblyInfoInputs.cache
+C:\Projeto C#\Ref_Out\Ref_Out\obj\Debug\net8.0\Ref_Out.AssemblyInfo.cs
+C:\Projeto C#\Ref_Out\Ref_Out\obj\Debug\net8.0\Ref_Out.csproj.CoreCompileInputs.cache
+C:\Projeto C#\Ref_Out\Ref_Out\obj\Debug\net8.0\Ref_Out.dll
+C:\Projeto C#\Ref_Out\Ref_Out\obj\Debug\net8.0\refint\Ref_Out.dll
+C:\Projeto C#\Ref_Out\Ref_Out\obj\Debug\net8.0\Ref_Out.pdb
+C:\Projeto C#\Ref_Out\Ref_Out\obj\Debug\net8.0\Ref_Out.genruntimeconfig.cache
+C:\Projeto C#\Ref_Out\Ref_Out\obj\Debug\net8.0\ref\Ref_Out.dll
